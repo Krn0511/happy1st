@@ -1,0 +1,55 @@
+body {
+    padding: 25px;
+    background-color:#5ef18a ; /* Light gray background for the whole page */
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #5ef18a; /* Blanched Almond for header background */
+    padding: 20px;
+    text-align: center;
+    border-radius: 8px;
+}
+
+main {
+    background-color: #d6e6da; /* White background for the main content area */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional: adds shadow for better visibility */
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+h1, h2 {
+    color: #080808; /* Custom color for headings */
+}
+
+textarea {
+    width: 100%;
+    padding: 10px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+}
+
+button {
+    background-color: #4CAF50; /* Green background for the button */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049; /* Darker green on hover */
+}
+
+footer {
+    background-color: #5ef18a; /* Matching footer background with header */
+    padding: 10px;
+    text-align: center;
+    border-radius: 8px;
+}
+
